@@ -18,7 +18,7 @@ Run the scripts in this order:
 
 The results file (`Resultados_redes_D50.4.RData`) is not included in this repository. To run the maps without repeating the analyses, it is available upon request by email at [flor.reichmann@gmail.com](mailto:flor.reichmann@gmail.com).
 
-The analyses include 52 ecoregions, with Patagonia and the Malvinas Islands treated separately. Ecoregion 351, which contains one cell, is excluded.
+The analyses include 51 ecoregions. Patagonia and the Malvinas Islands belong to the same ecoregion (ID 348) but were analysed separately because of their geographical separation. Ecoregion 351, which contains a single cell, was excluded.
 
 ## How to use
 
@@ -30,4 +30,4 @@ If using the results file requested by email, run steps 1 and 2 first, then run 
 
 ## Requirements
 
-R packages: geosphere, sp, stars, sna, igraph, RSpectra, ggplot2, scales, sf, dplyr, readr and patchwork. The code was checked using R 4.5.2; the full model was not recalculated for every ecoregion.
+R packages: geosphere, sp, stars, sna, igraph, RSpectra, ggplot2, scales, sf, dplyr, readr and patchwork. The code was checked using R 4.5.2.
