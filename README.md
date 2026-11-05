@@ -1,6 +1,6 @@
 # Reichmann et al. — South America
 
-This repository contains the R code and geographical data used to assess the effects of light pollution on landscape connectivity through network centrality metrics and to generate the manuscript figures.
+This repository contains the R code and geographical data used to assess the effects of ALAN (artificial light at night) on landscape connectivity through network centrality metrics and to generate the manuscript figures.
 
 ## Workflow
 
